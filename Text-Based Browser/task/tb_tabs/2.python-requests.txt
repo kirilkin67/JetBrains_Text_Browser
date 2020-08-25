@@ -1,0 +1,41 @@
+Requests: HTTP for Humans™ — Requests 2.24.0 documentation
+Requests: HTTP for Humans™¶
+Release v2.24.0. (Installation)
+Requests is an elegant and simple HTTP library for Python, built for human beings.
+Behold, the power of Requests:
+See similar code, sans Requests.
+Requests allows you to send HTTP/1.1 requests extremely easily.
+There’s no need to manually add query strings to your
+URLs, or to form-encode your POST data. Keep-alive and HTTP connection pooling
+are 100% automatic, thanks to urllib3.
+Beloved Features¶
+Requests is ready for today’s web.
+Requests officially supports Python 2.7 & 3.4–3.7, and runs great on PyPy.
+The User Guide¶
+This part of the documentation, which is mostly prose, begins with some
+background information about Requests, then focuses on step-by-step
+instructions for getting the most out of Requests.
+The Community Guide¶
+This part of the documentation, which is mostly prose, details the
+Requests ecosystem and community.
+The API Documentation / Guide¶
+If you are looking for information on a specific function, class, or method,
+this part of the documentation is for you.
+The Contributor Guide¶
+If you want to contribute to the project, this part of the documentation is for
+you.
+There are no more guides. You are now guideless.
+Good luck.
+
+
+
+
+  Requests is an elegant and simple HTTP library for Python, built for
+  human beings.
+
+Sponsored by CERT Gouvernemental - GOVCERT.LU.
+Useful Links
+
+
+Translations
+Quick search
