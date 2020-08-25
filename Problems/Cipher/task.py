@@ -1,1 +1,0 @@
-string = "no clouds here to spy on pets"
